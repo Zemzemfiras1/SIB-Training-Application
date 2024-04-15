@@ -12,6 +12,7 @@
 [![Bcftools veersion](https://img.shields.io/badge/Bcftools-v1.9%20-blue)](https://anaconda.org/bioconda/bcftools)
 
 #### Reproducibility
+```
 ├── 01_download_reads.sh
 ├── 02_splitfiles_tofastq.sh
 ├── 03_check_downloading.sh
@@ -120,6 +121,7 @@
         ├── normalized_variants.bcf
         ├── SRR519926.pileup.bcf
         └── variantscalls.bcf
+```
 
 
 
