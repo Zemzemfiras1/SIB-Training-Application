@@ -10,6 +10,23 @@
 [![qualimap version](https://img.shields.io/badge/Qualimap-v2.2.2a%20-blue)](https://anaconda.org/bioconda/qualimap)
 [![Samtools version](https://img.shields.io/badge/Samtools-v1.6%20-blue)](https://anaconda.org/bioconda/samtools)
 [![Bcftools veersion](https://img.shields.io/badge/Bcftools-v1.9%20-blue)](https://anaconda.org/bioconda/bcftools)
+```
+conda create -n ngs-introduction python=3.8
+
+conda activate ngs-introduction
+
+conda install -y -c bioconda \
+samtools \
+bwa \
+fastqc \
+sra-tools \
+cutadapt \
+bowtie2 \
+hisat2 \
+subread \
+entrez-direct \
+minimap2
+```
 
 #### Reproducibility
 ```
