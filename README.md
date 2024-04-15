@@ -1,5 +1,5 @@
 ## This an application of NGS - Quality control, Alignment, Visualisation Sib Training
-# NGS Workflow Training Using Nextflow
+
 [![Nextflow website](https://img.shields.io/twitter/url/https/nextflowio.svg?colorB=26af64&&label=%40nextflow&style=popout)](https://www.nextflow.io/)    [![Nextflow version](https://img.shields.io/github/release/nextflow-io/nextflow.svg?colorB=26af64&style=popout)](https://github.com/nextflow-io/nextflow/releases/latest) [![Nextflow Publication](https://img.shields.io/badge/Published-Nature%20Biotechnology-26af64.svg?colorB=26af64&style=popout)](https://www.nature.com/articles/nbt.3820) [![installed with bioconda](https://img.shields.io/badge/installed%20with-Anaconda-brightgreen.svg?colorB=26af64&style=popout)](https://www.anaconda.com/) [![Nextflow license](https://img.shields.io/github/license/nextflow-io/nextflow.svg?colorB=26af64&style=popout)](https://github.com/nextflow-io/nextflow/blob/master/COPYING)
  
 
